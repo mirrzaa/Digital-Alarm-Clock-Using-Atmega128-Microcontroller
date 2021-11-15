@@ -1,7 +1,5 @@
 
 
-//////////////////////WELCOME TO WaduDev 16-3///////////////////
-
 
 Youtube link of Digital Clock:
 https://www.youtube.com/watch?v=1BgANpJI5PE&feature=youtu.be
